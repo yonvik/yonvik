@@ -8,6 +8,8 @@
 
 ## Technology stack
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="320" />
+
 ***Back-end:***
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
