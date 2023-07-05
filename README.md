@@ -40,5 +40,4 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![GideonRavenor1 github stats](https://github-readme-stats.vercel.app/api?username=GideonRavenor1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![GideonRavenor1 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GideonRavenor1&layout=compact&count_private=true&theme=tokyonight)
+![yonvik github stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yonvik&theme=default)
